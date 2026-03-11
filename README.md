@@ -18,12 +18,12 @@ Los archivos desarrollados en clase estan en la carpeta [Notebooks](https://gith
 
 En los siguentes enlaces puedes visitar los proyectos que he realizado:
 
--[Clasificacion de asteroides](https://github.com/MattZG/Asteroid_Classification)
+* [Clasificacion de asteroides](https://github.com/MattZG/Asteroid_Classification)
 
--[Consumo energetico](https://github.com/MattZG/Energy_consumption)
+* [Consumo energetico](https://github.com/MattZG/Energy_consumption)
 
--[Abandono bancario](https://github.com/MattZG/Churn_Bank)
+* [Abandono bancario](https://github.com/MattZG/Churn_Bank)
 
--[Portabilidad del agua](https://github.com/MattZG/Water_Potability)
+* [Portabilidad del agua](https://github.com/MattZG/Water_Potability)
 
--[Prediccion de masa](https://github.com/MattZG/Mass_Prediction)
+* [Prediccion de masa](https://github.com/MattZG/Mass_Prediction)
